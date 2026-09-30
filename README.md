@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VedWade/VedLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VedWade/VedLeetCode/tree/master/0027-remove-element) |
+| [0941-valid-mountain-array](https://github.com/VedWade/VedLeetCode/tree/master/0941-valid-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VedWade/VedLeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
