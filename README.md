@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VedWade/VedLeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VedWade/VedLeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/VedWade/VedLeetCode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/VedWade/VedLeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VedWade/VedLeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/VedWade/VedLeetCode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/VedWade/VedLeetCode/tree/master/0941-valid-mountain-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/VedWade/VedLeetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/VedWade/VedLeetCode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/VedWade/VedLeetCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VedWade/VedLeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
