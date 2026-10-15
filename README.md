@@ -65,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/VedWade/VedLeetCode/tree/master/0457-circular-array-loop) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/VedWade/VedLeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/VedWade/VedLeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
