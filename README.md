@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VedWade/VedLeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/VedWade/VedLeetCode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/VedWade/VedLeetCode/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/VedWade/VedLeetCode/tree/master/2235-add-two-integers) |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VedWade/VedLeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VedWade/VedLeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VedWade/VedLeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VedWade/VedLeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
